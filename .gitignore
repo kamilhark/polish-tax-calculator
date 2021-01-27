@@ -1,0 +1,4 @@
+.idea
+ptc.egg-info
+venv
+*.iml
