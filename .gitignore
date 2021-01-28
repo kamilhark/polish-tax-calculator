@@ -1,4 +1,5 @@
 .idea
-ptc.egg-info
+polish_tax_calculator.egg-info
 venv
 *.iml
+dist

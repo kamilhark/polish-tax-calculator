@@ -1,3 +1,13 @@
+Kalkulator podatkowy w formie CLI, oblicza wartość podatku dochodowego dla różnych wariantów rozliczeń.
+Uwzględniono stawki ZUS za 2021 rok.
+
+
+## Instalacja
+
+```shell
+pip install polish-tax-calculator
+```
+
 ## Użycie
 
 ```shell
