@@ -13,12 +13,3 @@ ptc 5000
 ```shell
 ptc -t income -z reduced -si -itr 5 -v 5500 
 ```
-
-
-
-
-
-
-
- 
-
